@@ -1,0 +1,24 @@
+{
+  "name": "worskhop_html_validator",
+  "version": "1.0.0",
+  "description": "workshop to valid",
+  "main": "main.js",
+  "scripts": {
+    "validator": "npx html-validator ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthieu28/Worskhop_html_validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthieu28/Worskhop_html_validator/issues"
+  },
+  "homepage": "https://github.com/Matthieu28/Worskhop_html_validator#readme",
+  "type": "module",
+  "devDependencies": {
+    "w3c-html-validator": "^1.1.3"
+  }
+}
